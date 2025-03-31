@@ -101,9 +101,6 @@ Like many competitions, the skill level for CTFs varies between the events. Some
 4) Maintaining Access
 5) Analysis and WAF configuration
 
-## Certifications
-
-[Certified Ethical Hacker | CEH Certification](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/) &nbsp; <br>
 
 #### More tools and tutorials coming your way soon !!
 
